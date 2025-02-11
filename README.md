@@ -14,7 +14,7 @@
 ## 🌟 대표 프로젝트
 - To Do List : A simple web-based to-do list using HTML, CSS, and JavaScript
 - Weather : A simple weather app using OpenWeather API
-- Simple Chat :
+- Simple Chat Application : A simple GUI-based chat application using Java Swing and Socket Programming
 
 ## 📫 연락처
 - 이메일: asdc5@naver.com
