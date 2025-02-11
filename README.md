@@ -8,6 +8,7 @@
 - **프로그래밍 언어**: HTML, CSS, JavaScript, Java, Python
 - **프레임워크**: React.js, Flutter
 - **데이터베이스**: MySQL, Firebase
+- **운영체제**: Window, Linux
 - **기타**: Git, Docker
 
 ## 🌟 대표 프로젝트
