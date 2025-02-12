@@ -7,9 +7,9 @@
 ## 🔧 기술 스택
 - **프로그래밍 언어**: HTML, CSS, JavaScript, Java, Python
 - **프레임워크**: React.js, Flutter
-- **데이터베이스**: MySQL, Firebase
+- **데이터베이스**: Firebase
 - **운영체제**: Window, Linux
-- **기타**: Git, Docker
+- **기타**: Git, Docker, MS Tools 
 
 ## 🌟 대표 프로젝트
 - To Do List : A simple web-based to-do list using HTML, CSS, and JavaScript
