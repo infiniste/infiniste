@@ -5,11 +5,13 @@
 - 2023.01 ~ 2024.06 George Brown College, Computer System Technician Diploma
 
 ## 🔧 기술 스택
-- **프로그래밍 언어**: HTML, CSS, JavaScript, Java, Python
+- **프로그래밍 언어**: HTML, CSS, JavaScript, Java, Python, c++
 - **프레임워크**: React.js, Flutter
 - **데이터베이스**: Firebase
 - **운영체제**: Window, Linux
-- **기타**: Git, Docker, MS Tools 
+- **클라우드**: AZURE
+- **IDE**: vscode, Eclipse
+- **기타**: Git / Github, Docker, MS Tools 
 
 ## 🌟 대표 프로젝트
 - To Do List : A simple web-based to-do list using HTML, CSS, and JavaScript
