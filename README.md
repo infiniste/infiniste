@@ -6,13 +6,13 @@
 - 2024.09 ~ 2026.09 Algoma University, Bachelor of Computer Science
 
 ## 🔧 기술 스택
-- **프로그래밍 언어**: HTML, CSS, JavaScript, Java, Python, c++
-- **프레임워크**: React.js, Flutter
-- **데이터베이스**: Firebase
-- **운영체제**: Window, Linux
-- **클라우드**: AZURE
-- **IDE**: vscode, Eclipse
-- **기타**: Git / Github, Docker, MS Tools 
+- **Language**: HTML, CSS, JavaScript, Java, Python, c++
+- **Framework**: React.js, Flutter
+- **Datebase**: PostgreSOL
+- **OS**: Window, Linux
+- **Cloud**: AZURE
+- **IDE**: vscode, Android Studio
+- **ETC**: Git / Github, Docker, MS Tools 
 
 ## 🌟 대표 프로젝트
 - To Do List : A simple web-based to-do list using HTML, CSS, and JavaScript
@@ -21,4 +21,4 @@
 
 ## 📫 연락처
 - 이메일: asdc5@naver.com
-- 연락처: 010-8132-3742
+- 연락처: +82) 010-8132-3742
