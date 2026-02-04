@@ -11,8 +11,8 @@
 - **Datebase**: PostgreSOL
 - **OS**: Window, Linux
 - **Cloud**: AZURE
-- **IDE**: vscode, Android Studio
-- **ETC**: Git / Github, Docker, MS Tools 
+- **IDE**: VSCode, Android Studio
+- **ETC**: Git / Github, Docker, CI/CD, MS Tools 
 
 ## 🌟 대표 프로젝트
 - To Do List : A simple web-based to-do list using HTML, CSS, and JavaScript
