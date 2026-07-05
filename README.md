@@ -6,13 +6,14 @@
 - 2024.09 ~ 2026.09 Algoma University, Bachelor of Computer Science
 
 ## 🔧 기술 스택
-- **Language**: HTML, CSS, JavaScript, Java, Python, c++
+- **Language**: HTML, CSS, JavaScript, Python
 - **Framework**: React.js, Flutter
-- **Datebase**: PostgreSOL
+- **Datebase**: PostgreSOL, Superbase
 - **OS**: Window, Linux
-- **Cloud**: AZURE
+- **Cloud**: AWS
 - **IDE**: VSCode, Android Studio
-- **ETC**: Git / Github, Docker, CI/CD, MS Tools 
+- **ETC**: Git / Github, Docker, CI/CD, MS Tools
+- **AI Agent**: Codex
 
 ## 🌟 대표 프로젝트
 - To Do List : A simple web-based to-do list using HTML, CSS, and JavaScript
