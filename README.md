@@ -3,14 +3,14 @@
 ## 🎓 학력
 - 2009.03 ~ 2012.02 Dongah-Meister High School, Electronic Engineering
 - 2023.01 ~ 2024.06 George Brown College, Computer System Technician Diploma
-- 2024.09 ~ 2026.08 Algoma University, Bachelor of Computer Science
+- 2024.09 ~ 2026.10 Algoma University, Bachelor of Computer Science
 
 ## 🔧 기술 스택
-- **Language**: HTML, CSS, JavaScript, Python
-- **Framework**: React.js, Flutter
-- **Datebase**: PostgreSOL, Superbase
+- **Front-end**: React.js
+- **Back-end**: Node.js
+- **Datebase**: PostgreSOL
 - **OS**: Window, Linux
-- **Cloud**: AWS
+- **Cloud**: GCP
 - **IDE**: VSCode, Android Studio
 - **ETC**: Git / Github, Docker, CI/CD, MS Tools
 - **AI Agent**: Codex
